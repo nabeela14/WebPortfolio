@@ -1,2 +1,2 @@
 # WebPortfolio
-Built a easy on the eye interactive Web Portfolio for myself using HTML and CSS
+Built a easy on the eye interactive Web Portfolio using HTML and CSS
